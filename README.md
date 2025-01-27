@@ -20,7 +20,7 @@ meaningful way (model_evaluation_scripts).
 
 ## Known Bugs
 
-We have no know bugs in our approach, although our hyperparameter choices are
+We have no known bugs in our approach, although our hyperparameter choices are
 arbitrary beyond the experiments we ran (i.e. for number of channels, number
 of attention heads). Note that the width of our filter in the 1D convolution
 should be the expected length of a motif in your dataset.
